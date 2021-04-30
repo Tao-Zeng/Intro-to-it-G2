@@ -42,8 +42,8 @@
   <img src="taozeng1.png" alt="taozeng1"> <img src="taozeng4.png" alt="taozeng4">
   
   <p>Haowen Wang:</p>
-  <img src="haowen1.png" alt="haowen1"> <img src="haowen2.png" alt="haowen2">
-  <img src="haowen3.png" alt="haowen3"> <img src="haowen4.png" alt="haowen4">
+   <img src="haowen3.png" alt="haowen3"><img src="haowen2.png" alt="haowen2">
+   <img src="haowen1.png" alt="haowen1"><img src="haowen4.png" alt="haowen4">
   
   <p>Zhenyu Huang:</p>
   <img src="zhenyu1.png" alt="zhenyu1">
