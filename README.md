@@ -74,3 +74,125 @@
   <p><a href="https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn#/school/conversations/%E5%B8%B8%E8%A7%84?threadId=19:977f686f9b5548fa90bc9b5049d671e4@thread.tacv2&ctx=channel&rootfolder=%252Fsites%252FEnglishB3%252FShared%2520Documents%252FGeneral%252FOral%2520Presentation%252FGroup%2520Folders%252FSushi%2520Kelly">https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn#/school/conversations/%E5%B8%B8%E8%A7%84?threadId=19:977f686f9b5548fa90bc9b5049d671e4@thread.tacv2&ctx=channel&rootfolder=%252Fsites%252FEnglishB3%252FShared%2520Documents%252FGeneral%252FOral%2520Presentation%252FGroup%2520Folders%252FSushi%2520Kelly</a></p>
   <p>Wechat</p>
   <p>Google Drive:<a href="https://docs.google.com/document/d/1ykthoQdL5564OStFZ_4n3lbs0NH5gMwCm5NFpquoZm4/edit?usp=sharing">https://docs.google.com/document/d/1ykthoQdL5564OStFZ_4n3lbs0NH5gMwCm5NFpquoZm4/edit?usp=sharing</a></p>
+
+  <h2>Industry Data</h2>
+  
+  <p>Hongwei Zheng --database protection  Unlisted</p>
+    
+  <p>Suzhi Li ---game developer  Unlisted</p>
+    
+  <p>Hao zhong- Systems engineer Ranked #4 </p>
+    
+  <p>Zhenyu Huang--java developer Ranked #7 </p>
+    
+  <p>Tao Zeng-- project manager  Unlisted</p>
+    
+  <p>Haowen Wang--Big Data Analytics  Unlisted</p>
+  
+  <h3>database protection：</h3>
+  
+  <p>Linux/Unix</p>
+    
+  <p>MySQL、PostgreSQL、Oracle、DB2、MongoDB</p>
+    
+  <p>Shell、Perl、Python</p>
+  
+  <h3>game developer：</h3>
+  
+  <p>Unity，UE4，problem solving, OpenGL,C++</p>
+  
+  <h3>Systems engineer：</h3>
+  
+  <p>ospf ,rip ，linux，shell ,powershell，Python</p>
+  
+  <h3>java developer：</h3>
+  
+  <p>JavaAPI，Java（I/O（NIO）、Socket、JDBC、XML）</p>
+  
+  <p>JSP，Servlet，JavaSpring</p>
+  
+  <h3>project manger：</h3>
+  
+  <p>Communication skills,planning,presentation skills</p>
+  
+  <h3>Big Data Analytics:</h3>
+  
+  <p>SQL，SSIS，SSRS，Excel，Python</p>
+  
+  <h3>IT-specific skills：</h3>
+  
+  <p>SQL--Ranked #1</p>
+    
+  <p>SSIS(SQL tool) </p>
+    
+  <p>SSRS(SQL tool)</p>
+    
+  <p>DB2(SQL tool)</p>
+    
+  <p>MongoDB--Unlisted</p>
+    
+  <p>Shell--Unlisted</p>
+    
+  <p>Perl--Unlisted</p>
+    
+  <p>Python--Ranked #22</p>
+    
+  <p>Unity--Unlisted</p>
+    
+  <p>UE4--Unlisted</p>
+    
+  <p>OpenGL--Unlisted</p>
+    
+  <p>C++--Unlisted</p>
+    
+  <p>ospf --Unlisted</p>
+    
+  <p>rip --Unlisted</p>
+    
+  <p>Linux--Ranked #13</p>
+    
+  <p>Java（I/O（NIO）、Socket、JDBC、XML）--Ranked #3</p>
+    
+  <p>Javascript--Ranked #2</p>
+    
+  <p>Html5--Unlisted</p>
+    
+  <p>css--Unlisted</p>
+    
+  <p>Excel--Unlisted</p>
+    
+  <p>Business management--Ranked #7</p>
+    
+  <p>Microsoft windows--Ranked #4</p>
+  
+  <h3>General skills:</h3>
+  
+  <p>problem solving--Ranked #2</p>
+    
+  <p>Communication skills--Ranked #1</p>
+    
+  <p>Planning--Ranked #7</p>
+    
+  <p>presentation skills--Ranked #15</p>
+    
+  <p>Team work--Ranked #5</p>
+  
+  <h3>The three highest ranked IT-specific skills which are not in required skill set:</h3>
+  
+  <p>SAP--Ranked #6</p>
+    
+  <p>Building relationships--Ranked #8</p>
+    
+  <p>Business analysis--Ranked #9</p>
+  
+  <h3>The three highest ranked general skills which are not in required skill set:</h3>
+  
+  <p>Organizational skills--Ranked #3</p>
+    
+  <p>writing--Ranked #4</p>
+    
+  <p>Trouble shooting--Ranked #6</p>
+  
+  
+  
+  <h3>Opinion:</h3>
