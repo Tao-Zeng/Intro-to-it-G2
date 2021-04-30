@@ -34,4 +34,4 @@
   
   <h3>Test Outcome:</h3>
   <p>Suzhi Li:</p>
-  
+  <img src="suzhi 1.png" alt="Suzhi 1">
