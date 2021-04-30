@@ -34,7 +34,7 @@
   
   <h3>Test Outcome:</h3>
   <p>Suzhi Li:</p>
-  <img src="suzhi 1.png" alt="Suzhi 1"> <img src="suzhi 2.png" alt="suzhi 2"> <img src="suzhi 3.png" alt="suzhi 3"> 
+  <img src="suzhi 1.png" alt="Suzhi 1"> <img src="suzhi 3.png" alt="suzhi 3"> <img src="suzhi 2.png" alt="suzhi 2">
   <img src="suzhi 4.png" alt="suzhi 4">
   
   <p>Tao Zeng:</p>
