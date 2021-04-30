@@ -51,13 +51,13 @@
   <img src="zhenyu3.png" alt="zhenyu3">
   
   <p>Hongwei Zheng:</p>
-  <img src="hongwei1.png" alt="hongwei1">
   <img src="hongwei2.png" alt="hongwei2">
+  <img src="hongwei1.png" alt="hongwei1">
   <img src="hongwei3.png" alt="hongwei3">
   
   <p>Hao Zhong:</p>
-  <img src="hao1.png" alt="hao1">
   <img src="hao2.png" alt="hao2">
+  <img src="hao1.png" alt="hao1">
   <img src="hao3.png" alt="hao3">
   
   <h2>Idea Job:</h2>
