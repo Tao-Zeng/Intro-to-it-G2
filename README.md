@@ -57,8 +57,8 @@
   
   <p>Hao Zhong:</p>
   <img src="hao2.png" alt="hao2">
-  <img src="hao1.png" alt="hao1">
   <img src="hao3.png" alt="hao3">
+  <img src="hao1.png" alt="hao1">
   
   <h2>Idea Job:</h2>
   
