@@ -33,4 +33,5 @@
   <p>My Chinese name is Hao Zhong and English name is Howard. I come from China. This is my first year studying Bachelor of Information Technology in RMIT. My hobbies are playing games, watching movies and playing guitar.</p>
   
   <h3>Test Outcome:</h3>
+  <p>Suzhi Li:</p>
   
