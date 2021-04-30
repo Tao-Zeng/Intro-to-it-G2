@@ -60,7 +60,7 @@
   <img src="hao2.png" alt="hao2">
   <img src="hao3.png" alt="hao3">
   
-  <h2>Idea Job:<h2>
+  <h2>Idea Job:</h2>
   
   <p>All our ideal jobs are IT related and have high salaries. All of these jobs require teamwork and good communication, as well as a knowledge of some programming language, or at least one. And some jobs also require the employee to have some working experience.</p>
   
