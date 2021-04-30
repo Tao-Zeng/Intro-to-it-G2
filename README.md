@@ -60,3 +60,17 @@
   <img src="hao2.png" alt="hao2">
   <img src="hao3.png" alt="hao3">
   
+  <h2>Idea Job:<h2>
+  
+  <p>All our ideal jobs are IT related and have high salaries. All of these jobs require teamwork and good communication, as well as a knowledge of some programming language, or at least one. And some jobs also require the employee to have some working experience.</p>
+  
+  <p>Although our ideal jobs are all related to it, they are in different fields. For example, the position of project manager is not in the studio most of the time. The project manager is more of a position of taking overall responsibility, like a leader leading the team.But for game developers, they need to master many related technologies, not only the programming language, but also the skilled use of 3D development tools and game engines.</p>
+  
+  <p>Most of us will choose to be programmers, but some of us will not be in the relevant industry. May choose some do not need programming knowledge career, will choose other direction of development, such as project manager or consultant.</p>
+  
+  <h2>Tools:</h2>
+  <p>Group gethub:<a href="https://github.com/Tao-Zeng/Intro-to-it-G2">https://github.com/Tao-Zeng/Intro-to-it-G2</a></p>
+  <p>Group Microsoft Team: </p>
+  <p><a href="https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn#/school/conversations/%E5%B8%B8%E8%A7%84?threadId=19:977f686f9b5548fa90bc9b5049d671e4@thread.tacv2&ctx=channel&rootfolder=%252Fsites%252FEnglishB3%252FShared%2520Documents%252FGeneral%252FOral%2520Presentation%252FGroup%2520Folders%252FSushi%2520Kelly">https://teams.microsoft.com/_?culture=en-us&country=US&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn#/school/conversations/%E5%B8%B8%E8%A7%84?threadId=19:977f686f9b5548fa90bc9b5049d671e4@thread.tacv2&ctx=channel&rootfolder=%252Fsites%252FEnglishB3%252FShared%2520Documents%252FGeneral%252FOral%2520Presentation%252FGroup%2520Folders%252FSushi%2520Kelly</a></p>
+  <p>Wechat</p>
+  <p>Google Drive:<a href="https://docs.google.com/document/d/1ykthoQdL5564OStFZ_4n3lbs0NH5gMwCm5NFpquoZm4/edit?usp=sharing">https://docs.google.com/document/d/1ykthoQdL5564OStFZ_4n3lbs0NH5gMwCm5NFpquoZm4/edit?usp=sharing</a></p>
