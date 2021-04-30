@@ -38,8 +38,8 @@
   <img src="suzhi 4.png" alt="suzhi 4">
   
   <p>Tao Zeng:</p>
-  <img src="taozeng1.png" alt="taozeng1"> <img src="taozeng2.png" alt="taozeng2">
-  <img src="taozeng3.png" alt="taozeng3"> <img src="taozeng3.png" alt="taozeng3">
+  <img src="taozeng3.png" alt="taozeng3"><img src="taozeng2.png" alt="taozeng2">
+  <img src="taozeng1.png" alt="taozeng1"> <img src="taozeng3.png" alt="taozeng3">
   
   <p>Haowen Wang:</p>
   <img src="haowen1.png" alt="haowen1"> <img src="haowen2.png" alt="haowen2">
